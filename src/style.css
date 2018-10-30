@@ -1,0 +1,99 @@
+.momBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.boxOne {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(227, 215, 230);
+}
+
+.boxCont{
+  display: none;
+}
+
+.miniBox{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(227, 202, 222);
+}
+
+.miniBoxOne{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(224, 162, 212);
+}
+
+.miniBoxTwo {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(215, 185, 228);
+  display: flex;
+  flex-direction: row;
+}
+
+.boxTwo {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(223, 200, 231);
+  /*display: flex;
+  flex-direction: row;*/
+}
+
+.babyCont {
+  display: none;
+  /*display: flex;
+  flex-direction: row;*/
+}
+
+
+.babyOne {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(224, 199, 215);
+  /*display: flex;
+  flex-direction: row;*/
+}
+
+.babyTwo {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(221, 174, 233);
+}
+
+.babyThree {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(230, 188, 216);
+}
+
+.boxThree {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(231, 186, 228);
+}
+
+.tinyCont{
+  display: none;
+}
+
+.tinyBox{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(206, 165, 225);
+}
+
+.tinyOne{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(224, 162, 212);
+}
+
+.tinyTwo{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(209, 182, 228);
+}
